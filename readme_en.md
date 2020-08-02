@@ -1,7 +1,7 @@
 # GoMarketplace
 
 <p align="center">
-    <img src="https://github.com/felipedmsantos95/gomarketplace/blob/master/img/GoMarketplace.png"/>
+    <img src="https://github.com/felipedmsantos95/gomarketplace/blob/master/img/GoMarketplace.jpg"/>
     </br>
     <a href="readme_en.md">English</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="readme.md">Português</a>&nbsp;&nbsp;&nbsp;
