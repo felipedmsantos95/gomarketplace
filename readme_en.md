@@ -29,7 +29,7 @@ To execute the project it is necessary to have the following requirements instal
 - Node 12.x or later
 - Yarn 1.21 or later
 - [Android-Sdk](https://react-native.rocketseat.dev/) (To install the app on Android devices)
-- [Dispositivo macOS configurado](https://react-native.rocketseat.dev/ios/macos) (To install the app on iOS devices)
+- [Configured macOS device](https://react-native.rocketseat.dev/ios/macos) (To install the app on iOS devices)
 
 ## Running the project
 
