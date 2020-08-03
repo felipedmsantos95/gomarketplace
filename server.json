@@ -2,27 +2,27 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "title": "Camisa do Pipico",
+      "image_url": "https://cdn.shopify.com/s/files/1/0359/7274/3301/products/6_1200x1200.jpg?v=1585152480",
+      "price": 300
     },
     {
       "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "title": "Box Rocky Balboa",
+      "image_url": "https://images-americanas.b2w.io/produtos/01/00/img/1516350/5/1516350571_1GG.jpg",
+      "price": 120
     },
     {
       "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 70
+      "title": "LP Bruce Springsteen",
+      "image_url": "https://i.ebayimg.com/images/g/-7cAAOSwSkpeTalL/s-l640.jpg",
+      "price": 100
     },
     {
       "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "title": "CD Lairton e Seus Teclados",
+      "image_url": "https://images.suamusica.com.br/L4umfNgKlbbinQPIpe61yYArJNM=/300x300/6379784/1209750/cd_cover.jpg",
+      "price": 20
     }
   ]
 }
