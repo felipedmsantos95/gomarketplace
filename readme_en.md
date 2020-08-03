@@ -44,7 +44,7 @@ $ cd gomarketplace
 
 Inside the project directory for the first time, you must run the `yarn` command to install the dependencies, so it will be possible to run the following scripts:
 
-#### `yarn json-server server.json -p 3333`
+#### `yarn json-server --host ip_of_your_server server.json -p 3333`
 
 To display data on screen, there is a file to be used as a kind of fake API to provide this data. For that, there is a dependency in package.json called json-server, and a file called server.json that contains the data for a `/products` route.
 

@@ -44,7 +44,7 @@ $ cd gomarketplace
 
 Dentro do diretório do projeto pela primeira vez, você deve executar o comando `yarn` para instalar as dependências, então será possível rodar os seguintes scripts:
 
-#### `yarn json-server server.json -p 3333`
+#### `yarn json-server --host ip_do_seu_servidor server.json -p 3333`
 
 Para exibir dados em tela, há um arquivo para ser utilizado como uma espécie de fake API para prover esses dados. Para isso, há no package.json uma dependência chamada json-server, e um arquivo chamado server.json que contém os dados para uma rota `/products`.
 
