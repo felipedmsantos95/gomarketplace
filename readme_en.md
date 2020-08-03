@@ -22,7 +22,7 @@ React-Native mobile application that consists of a virtual store with cart manag
 
 - React-Native
 
-## Requisitos
+## Requirements
 
 To execute the project it is necessary to have the following requirements installed in the system:
 
