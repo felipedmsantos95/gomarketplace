@@ -44,19 +44,33 @@ $ cd gomarketplace
 
 Inside the project directory for the first time, you must run the `yarn` command to install the dependencies, so it will be possible to run the following scripts:
 
-#### `yarn json-server --host server_address server.json -p 3333`
+#### Running Fake API
+
+```bash
+$ yarn json-server --host server_address server.json -p 3333
+```
 
 To display data on screen, there is a file to be used as a kind of fake API to provide this data. For that, there is a dependency in package.json called json-server, and a file called server.json that contains the data for a `/products` route.
 
 
-#### `yarn android`
+#### Install the application on devices with Android operating system
 
-To install the application on devices with Android operating system.
+```bash
+$ yarn android
+```
 
-#### `yarn ios`
+#### Install the application on devices with iOS operating system
 
-To install the application on devices with iOS operating system.
+```bash
+$ cd ios
+$ pod install
+$ cd ..
+$ yarn ios
+```
 
-#### `yarn start`
+####  Metro Bundle to development mode
 
-Run the Metro Bundle to interact with the application in development mode.
+```bash
+$ yarn start
+```
+
